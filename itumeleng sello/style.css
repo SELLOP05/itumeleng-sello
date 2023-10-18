@@ -1,0 +1,208 @@
+nav ul{
+    display: flex;
+    justify-content:right;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 7rem;
+    margin: 0;
+}
+nav li a{
+    text-decoration: none;
+}
+nav li a:hover{
+    color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: white;
+    padding: 7px;
+}
+h1{
+    font-weight: 50;
+    margin-top: 0;
+    padding-left: 20rem;
+}
+header{
+    padding: 20px;
+    background-color:honeydew;
+    color:hotpink ;
+}
+button{
+    color: blanchedalmond;
+    background-color: rgb(77, 255, 0);
+    border-radius: 20px;
+    padding: 10px;
+    font-size: x-small;
+    border: 0;
+    text-align: right;
+    display: inline-block;
+}
+.butt{
+  color: blanchedalmond;
+  background-color: rgb(77, 255, 0);
+  border-radius: 20px;
+  padding: 10px;
+  font-size: x-small;
+  border: 0;
+  text-align: right;
+  display: inline-block;
+  margin-left: 80rem;
+}
+
+article {
+    display: flex;
+    background-color: white;
+    padding-top: 0rem;
+  
+  }
+section{
+    padding: 5rem;
+    padding-top: 7rem;
+  }
+  .project{
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+  }
+  #SERVICES,#portfolio{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+ #SERVICES ul{
+    display: flex;
+    text-decoration: none;
+    font-weight: 200;
+    align-content: center;
+   
+  }
+  #SERVICES li{
+    padding: 2rem;
+   
+  }
+  .SERVICES li{
+    font-weight: bolder;
+    list-style: none;
+  }
+  .hello{
+    font-size: larger;
+    font-weight: x-small;
+      }
+  .intro{
+    font-weight: bolder;
+    
+ }
+
+  .exp{font-size: medium;
+    
+}
+
+div li{
+  list-style: none;
+}
+#portfolio{
+  background-color: rgba(239, 10, 151, 0.377);
+}
+#SERVICES{
+  background-color: antiquewhite;
+}
+.web{
+  text-align: justify;
+}
+
+footer ul{
+  justify-content: center;
+}
+.last p{
+  text-align: center;
+}
+.info p{
+  text-align: center;
+}
+hr{
+margin-left: 1.5rem;
+}
+.dots{
+  text-align: center;
+  font-size: medium;
+}
+hr{
+  margin-left: 1.5rem; 
+  }
+.front{
+  background-color: aqua;
+}
+h4{
+  font-weight: lighter;
+  margin-bottom: 0rem;
+  margin-left: 3.4rem;
+}.clients{
+  background-color: white;
+}
+section.info{
+  padding: 0rem;
+}
+section.last{
+  padding: 0rem;
+}
+p.dr{
+  margin-top: 0rem;
+  font-style: italic;
+}
+p.name{
+  margin-bottom: 0rem;
+  font-weight: bold;
+}
+h4{
+  font-weight: lighter;
+  margin-bottom: 0rem;
+  margin-left: 3.4rem;
+  font-size: 20px;
+  text-align: left;
+}
+h5{
+  text-align: center;
+  padding-left: 9rem;
+  padding-right: 9rem;
+  font-weight: lighter;
+  margin-bottom: 0rem;
+  font-size: 20px;
+}
+.h5{
+  margin-top: 0rem;
+}
+div.par1{
+  margin-top: 0rem;
+}
+#project1{
+  display: flex;
+}
+#project2{
+  display: flex;
+}
+.Awesome{
+  margin-top: 0rem;
+}
+.client img{
+  border-radius: 100%;
+  width: 100px;
+  margin-left: 40rem;
+}
+.img{
+  height: 16rem;
+  width: 16rem;
+  display: inline-flex;
+  flex-direction: column;
+  padding-left: 10rem;
+}
+.me{
+  height: 20rem;
+  width: 2orem;
+}
+.down{
+  display: flex;
+  justify-content: space-evenly;
+  height: 3rem;
+  width: 3rem;
+  margin-left: 20rem;
+}
